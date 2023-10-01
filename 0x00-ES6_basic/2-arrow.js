@@ -6,5 +6,4 @@ export default function getNeighborhoodsList() {
       self.cityNeighborhoods.push(newNeighborhood);
       return self.cityNeighborhoods;
     };
-  }
-  
+  }  
